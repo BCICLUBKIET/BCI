@@ -13,7 +13,7 @@ void setup() {
    pinMode(pin11, OUTPUT);
     
   
-    // opens serial port, sets data rate to 9600 bps
+    // opens serial port, sets data rate to 2400 bps
 }
 
 
